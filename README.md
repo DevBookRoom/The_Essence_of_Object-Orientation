@@ -41,7 +41,7 @@
       <a href="https://github.com/Farmer-Kim">
         <img src="https://avatars.githubusercontent.com/u/85499788?v=4" width="100px;" alt=""/>
         <br />
-        <sub>김대군</sub>
+        <sub>김대건</sub>
       </a>
     </td>
   </tr>
